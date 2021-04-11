@@ -1,0 +1,37 @@
+The inventor of Bitcoin is a mystery.
+The first Bitcoin purchase was for pizza.
+There will only ever be 21 million bitcoins. Bitcoin’s supply is finite. This gives it value.
+Since 2008, Bitcoin has consistently been making a profit
+Bitcoin became the first decentralized digital coin when it was created in 2008. It then went public in 2009.
+As of 2020, Bitcoin is the most commonly known and used cryptocurrency. Meanwhile, other coins including Ethereum (ETH), Ripple (XRP), Litecoin (LTC), and more are all notable mentions.
+Given the popularity of Bitcoin as well as its history, the term “altcoin” is sometimes used to describe alternative cryptocurrencies to bitcoin (especially coins with small market caps).
+Stablecoins are cryptocurrencies that attempt to peg their market value to some external reference.
+Stablecoins may be pegged to a currency like the U.S. dollar or to a commodity's price such as gold.
+Stablecoins achieve their price stability via collateralization (backing) or through algorithmic mechanisms of buying and selling the reference asset or its derivatives.
+The smallest unit of a bitcoin is called a satoshi. It is one hundred millionth of a bitcoin.
+Since the network is transparent, the progress of a particular transaction is visible to all. Once that transaction is confirmed, it cannot be reversed. This means any transaction on the bitcoin network cannot be tampered with, making it immune to hackers.
+Roughly every four years, the amount of bitcoin that miners can earn in the network will be halved, potentially driving up the asset’s price. 
+Ethereum is a blockchain-based software platform that is primarily used to support the world’s second-largest cryptocurrency by market capitalization after Bitcoin.
+The idea behind Ethereum is to decentralize other kinds of applications and services, from social media networks to more complex financial agreements.
+Many advocates see Ethereum as a “world computer” that could decentralize the internet.
+Cryptocurrencies like Bitcoin and Ethereum are powered by a technology called the blockchain. At its most basic, a blockchain is a list of transactions that anyone can view and verify.
+Cryptocurrencies and the blockchain technology that powers them make it possible to transfer value online without the need for a middleman like a bank or credit card company.
+Almost all cryptocurrencies, including Bitcoin, Ethereum, Bitcoin Cash, and Litecoin, are secured via blockchain networks. Which means their accuracy is constantly being verified by a huge amount of computing power.
+Due to the cryptographic nature of blockchain networks, payments via blockchain can be more secure than standard debit/credit card transactions. When making a Bitcoin payment, for instance, you don’t need to provide any sensitive information. That means there is almost zero risk of your financial information being compromised, or your identity being stolen.
+Blockchains are being used to explore medical research, improve the accuracy of healthcare records, streamline supply chains, and so much more.
+A stablecoin is a digital currency that is pegged to a “stable” reserve asset like the U.S. dollar or gold. Stablecoins are designed to reduce volatility relative to unpegged cryptocurrencies like Bitcoin.
+Mining is the process by which networks of specialized computers generate and release new Bitcoin and verify new transactions.
+Mining involves vast, decentralized networks of computers around the world that verify and secure blockchains – the virtual ledgers that document cryptocurrency transactions.
+There will only ever be 21 million bitcoin. The final bitcoin should theoretically be mined in 2140.
+Beyond releasing new coins into circulation, mining is central to Bitcoin’s (and many other cryptocurrencies’) security. It verifies and secures the blockchain, which allows cryptocurrencies to function as a peer-to-peer decentralized network without any need for oversight from a third party.  
+Crypto wallets store your private keys, keeping your crypto safe and accessible. They also allow you to send, receive, and spend cryptocurrencies like Bitcoin and Ethereum.
+Unlike a normal wallet, which can hold actual cash, crypto wallets technically don’t store your crypto. Your holdings live on the blockchain, but can only be accessed using a private key. 
+Cryptocurrencies like Bitcoin and Ethereum are powered by decentralized, open-source software called a blockchain. A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.
+A private key is like a password — a string of letters and numbers — that allows you to access and manage your crypto funds.
+When you first buy cryptocurrency, you are issued two keys: a public key, which works like an email address (meaning you can safely share it with others, allowing you to send or receive funds), and a private key, which is typically a string of letters and numbers (and which is not to be shared with anyone).
+Via some complicated math, your public key is actually generated by your private key, which makes them a matched pair. When you make a transaction using your public key, you verify that it’s really you by using your private key. 
+A online crypto wallet is known as a "hot" wallet, whereas an offline wallet is known as a "cold storage" wallet.
+Every four years, the amount of bitcoin awarded to miners is reduced by half, until all 21 million bitcoin have been virtually mined (probably around the year 2140). The halving mechanism helps make bitcoin a scarce, inflation-resistant resource. 
+By issuing fewer bitcoin over time, the halving makes it more likely that Bitcoin’s value will rise (assuming consistent levels of demand). 
+Like gold, Bitcoin is mined, but it’s done electronically by a global network of computers competing to verify bitcoin transactions. 
+It’s impossible for more Bitcoin to ever exist. This is contrary to fiat currencies, where more money can be printed at the discretion of the government or central bank, potentially leading to inflation.
